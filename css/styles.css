@@ -55,6 +55,7 @@ body {
   font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
+  letter-spacing: 0.03em;
   color: var(--accent-color);
 }
 .logo2 {
@@ -139,12 +140,12 @@ body {
 
 .feature-title {
   font-weight: 700;
+  font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
 }
 
 .feature-descr {
-  font-weight: 400;
   line-height: 1.71;
   color: var(--secondary-text-color);
 }
@@ -159,16 +160,18 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 
 .team-card-title {
   font-weight: 500;
   font-size: 16px;
+  letter-spacing: 0.03em;
 }
 .team-card-descr,
 .project-descr {
-  font-weight: 400;
   font-size: 16px;
+  letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
 
@@ -176,7 +179,6 @@ body {
 
 .footer-address,
 .footer-contacts {
-  font-weight: 400;
   line-height: 1.71;
   color: var(--main-color);
 }
@@ -205,6 +207,7 @@ address {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
+  letter-spacing: 0.03em;
   color: var(--primary-text-color);
   background-color: var(--main-color);
 }
